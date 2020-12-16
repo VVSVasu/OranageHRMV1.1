@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29942" started-at="2020-12-16T09:31:12 IST" finished-at="2020-12-16T09:31:42 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29942" started-at="2020-12-16T09:31:12 IST" finished-at="2020-12-16T09:31:42 IST">
+      <class name="com.computechis.testcases.LogoutTest">
+        <test-method status="PASS" signature="setupTestSuite()[pri:0, instance:com.computechis.testcases.LogoutTest@3108bc]" name="setupTestSuite" is-config="true" duration-ms="175" started-at="2020-12-16T09:31:12 IST" finished-at="2020-12-16T09:31:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTestSuite -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.computechis.testcases.LogoutTest@3108bc]" name="setUp" is-config="true" duration-ms="11530" started-at="2020-12-16T09:31:12 IST" finished-at="2020-12-16T09:31:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitle()[pri:1, instance:com.computechis.testcases.LogoutTest@3108bc]" name="verifyTitle" duration-ms="59" started-at="2020-12-16T09:31:24 IST" finished-at="2020-12-16T09:31:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="tearDownTest(org.testng.ITestResult)[pri:0, instance:com.computechis.testcases.LogoutTest@3108bc]" name="tearDownTest" is-config="true" duration-ms="583" started-at="2020-12-16T09:31:24 IST" finished-at="2020-12-16T09:31:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTitle status=SUCCESS method=LogoutTest.verifyTitle()[pri:1, instance:com.computechis.testcases.LogoutTest@3108bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method status="PASS" signature="verifyURL()[pri:2, instance:com.computechis.testcases.LogoutTest@3108bc]" name="verifyURL" duration-ms="823" started-at="2020-12-16T09:31:25 IST" finished-at="2020-12-16T09:31:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyURL -->
+        <test-method status="PASS" signature="tearDownTest(org.testng.ITestResult)[pri:0, instance:com.computechis.testcases.LogoutTest@3108bc]" name="tearDownTest" is-config="true" duration-ms="189" started-at="2020-12-16T09:31:26 IST" finished-at="2020-12-16T09:31:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyURL status=SUCCESS method=LogoutTest.verifyURL()[pri:2, instance:com.computechis.testcases.LogoutTest@3108bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method status="PASS" signature="logout()[pri:3, instance:com.computechis.testcases.LogoutTest@3108bc]" name="logout" duration-ms="15572" started-at="2020-12-16T09:31:26 IST" finished-at="2020-12-16T09:31:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="tearDownTest(org.testng.ITestResult)[pri:0, instance:com.computechis.testcases.LogoutTest@3108bc]" name="tearDownTest" is-config="true" duration-ms="63" started-at="2020-12-16T09:31:41 IST" finished-at="2020-12-16T09:31:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logout status=SUCCESS method=LogoutTest.logout()[pri:3, instance:com.computechis.testcases.LogoutTest@3108bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.computechis.testcases.LogoutTest@3108bc]" name="tearDown" is-config="true" duration-ms="697" started-at="2020-12-16T09:31:42 IST" finished-at="2020-12-16T09:31:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.computechis.testcases.LogoutTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

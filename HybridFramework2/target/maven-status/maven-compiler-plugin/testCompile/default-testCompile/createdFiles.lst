@@ -1,0 +1,13 @@
+com\computechis\factory\ExcelReader.class
+com\computechis\unittest\TestBrowserFactory.class
+com\computechis\factory\BrowserFactory.class
+com\computechis\pages\LoginPage.class
+com\computechis\testcases\LoginTestDDT1.class
+com\computechis\utilities\Utility.class
+com\computechis\factory\ConfigDataProvider.class
+com\computechis\testcases\LoginTest.class
+com\computechis\testcases\LogoutTest.class
+com\computechis\pages\BaseClass.class
+com\computechis\pages\LogoutPage.class
+com\computechis\factory\DataProviderFactory.class
+com\computechis\unittest\TestDataProviderFactory.class
